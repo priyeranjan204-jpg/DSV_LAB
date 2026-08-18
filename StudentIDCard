@@ -1,0 +1,9 @@
+name="Ananya"
+roll_number=21
+height_in_cm=152.5
+is_hostel_student=True
+
+print("Name:",name)
+print("Roll Number:",roll_number)
+print("Height:",height_in_cm)
+print("Hostel Student:",is_hostel_student)
